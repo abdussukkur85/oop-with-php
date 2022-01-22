@@ -128,3 +128,4 @@ class Strawberry extends Fruit {
         // some code
     }
 }
+
